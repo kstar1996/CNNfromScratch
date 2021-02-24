@@ -1,2 +1,2 @@
 # CNNfromScratch
-A C++ implementation off CNN architecture. 
+A C++ implementation of CNN architecture. 
