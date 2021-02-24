@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/eujin/CLionProjects/CNNfromScratch/layers/convolution_layer.hpp">
+			<Option target="CNNfromScratch"/>
+		</Unit>
 		<Unit filename="/home/eujin/CLionProjects/CNNfromScratch/main.cpp">
 			<Option target="CNNfromScratch"/>
 		</Unit>

@@ -3,4 +3,4 @@ project(CNNfromScratch)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CNNfromScratch main.cpp)
+add_executable(CNNfromScratch main.cpp layers/convolution_layer.hpp)
