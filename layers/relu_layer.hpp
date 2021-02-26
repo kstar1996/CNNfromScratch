@@ -40,10 +40,8 @@ private:
     size_t inputHeight;
     size_t inputWidth;
     size_t inputDepth;
-
     arma::cube input;
     arma::cube output;
-
     arma::cube gradientWrtInput;
 };
 
